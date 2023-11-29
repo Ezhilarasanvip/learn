@@ -9,4 +9,4 @@
 
 let selectedColors = ['Red', 'blue', 'green'];
 selectedColors[3] = 'yellow';
-console.log(selectedColors[0])
+console.log(selectedColors.length)
