@@ -37,5 +37,5 @@
 // console.log(currentColor);
 // let name = 'ezhil';
 // console.log(name);
-let name = 'ezhil';
-console.log(name);
+// let name = 'ezhil';
+// console.log(name);
