@@ -35,5 +35,7 @@
 // let defaultColor = 'blue';
 // let currentColor = userColor || defaultColor;
 // console.log(currentColor);
+// let name = 'ezhil';
+// console.log(name);
 let name = 'ezhil';
 console.log(name);
